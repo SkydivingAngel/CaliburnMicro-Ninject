@@ -1,5 +1,4 @@
-# MVVM Light Toolkit and Ninject Integration
+# Caliburn Micro and Ninject Integration
 
-**How to integrate Ninject in MVVM Light**
-<br>Username: a
-<br>Password: b
+**How to integrate Ninject in Caliburn Micro**
+**Simple Usage of Conductors**
